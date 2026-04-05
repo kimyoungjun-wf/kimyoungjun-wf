@@ -1,5 +1,12 @@
-## Hi there 👋
+#### 안녕하세요. 15년차 개발자 김영준입니다. 👋
 
+#### 
+- 기술 : Exbuilder, Java, Spring, Oracle, Nexacro, Jquery, HTML, CSS, JavaScript
+
+#### 프로젝트
+- 2024.03.17. ~ 진행중 : 사회보장정보통합플랫폼유지관리
+- 2024.09.01. ~ 2025.03.14 : 사회보장정보통합플랫폼 차세대사업단 하자보수
+- 
 <!--
 **kimyoungjun-wf/kimyoungjun-wf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
