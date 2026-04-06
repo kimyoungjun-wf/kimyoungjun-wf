@@ -13,7 +13,22 @@
 - 2013.03.01 ~ 2016.03.01 : 통합운영 시스템 개발
 - 2011.03.14 ~ 2013.02.01 : Smart TV 과제
 
-#### 
+#### 사용 기술
+-- test
+java
+oracle
+
+
+exbuildr
+nexacro
+
+2022년 이전에 사용하던 기술
+html
+css
+mySql
+jquery
+javascript
+ASP.NET
 <!--
 **kimyoungjun-wf/kimyoungjun-wf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
