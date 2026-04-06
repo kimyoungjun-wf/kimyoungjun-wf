@@ -9,6 +9,11 @@
 - 2024.01.01 ~ 2024.08.30 : 예금보험공사 차세대사업
 - 2022.09.15 ~ 2023.12.31 : 사회보장정보통합플랫폼 차세대사업
 - 2019.05.01 ~ 2022.08.04 : SDS HR-Hub 유지보수
+- 2016.04.01 ~ 2019.04.01 : 모바일플랫폼운영
+- 2013.03.01 ~ 2016.03.01 : 통합운영 시스템 개발
+- 2011.03.14 ~ 2013.02.01 : Smart TV 과제
+
+#### 
 <!--
 **kimyoungjun-wf/kimyoungjun-wf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
